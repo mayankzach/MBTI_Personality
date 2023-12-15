@@ -23,7 +23,7 @@ This project aims to predict Myers-Briggs Type Indicator (MBTI) personality type
 
 2. **Install Dependencies:**
     ```bash
-    pip install -r requirements.txt
+    pip install [Dependency]
     ```
 
 3. **Run the Predictor:**
